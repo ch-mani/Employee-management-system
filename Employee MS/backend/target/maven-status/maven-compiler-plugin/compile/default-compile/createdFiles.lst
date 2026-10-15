@@ -1,0 +1,9 @@
+com\ems\entity\TaskSubmission.class
+com\ems\repository\TaskSubmissionRepository.class
+com\ems\dto\RoleRequestDTO.class
+com\ems\dto\TaskSubmissionDTO.class
+com\ems\dto\ChangePasswordRequest.class
+com\ems\controller\TaskController.class
+com\ems\dto\TaskSubmissionRequest.class
+com\ems\config\DataInitializer.class
+com\ems\dto\RegisterRequest.class
